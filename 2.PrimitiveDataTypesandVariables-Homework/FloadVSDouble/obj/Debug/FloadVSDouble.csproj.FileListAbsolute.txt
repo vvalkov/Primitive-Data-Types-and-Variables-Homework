@@ -1,0 +1,5 @@
+C:\Users\UniUser\Documents\velizar\2ndHomework\2.PrimitiveDataTypesandVariables-Homework\FloadVSDouble\bin\Debug\FloadVSDouble.exe
+C:\Users\UniUser\Documents\velizar\2ndHomework\2.PrimitiveDataTypesandVariables-Homework\FloadVSDouble\bin\Debug\FloadVSDouble.pdb
+C:\Users\UniUser\Documents\velizar\2ndHomework\2.PrimitiveDataTypesandVariables-Homework\FloadVSDouble\obj\Debug\FloadVSDouble.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Documents\velizar\2ndHomework\2.PrimitiveDataTypesandVariables-Homework\FloadVSDouble\obj\Debug\FloadVSDouble.exe
+C:\Users\UniUser\Documents\velizar\2ndHomework\2.PrimitiveDataTypesandVariables-Homework\FloadVSDouble\obj\Debug\FloadVSDouble.pdb

@@ -1,0 +1,6 @@
+C:\Users\UniUser\Documents\velizar\2ndHomework\2.PrimitiveDataTypesandVariables-Homework\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\UniUser\Documents\velizar\2ndHomework\2.PrimitiveDataTypesandVariables-Homework\DeclareVariables\bin\Debug\DeclareVariables.exe
+C:\Users\UniUser\Documents\velizar\2ndHomework\2.PrimitiveDataTypesandVariables-Homework\DeclareVariables\bin\Debug\DeclareVariables.pdb
+C:\Users\UniUser\Documents\velizar\2ndHomework\2.PrimitiveDataTypesandVariables-Homework\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Documents\velizar\2ndHomework\2.PrimitiveDataTypesandVariables-Homework\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\UniUser\Documents\velizar\2ndHomework\2.PrimitiveDataTypesandVariables-Homework\DeclareVariables\obj\Debug\DeclareVariables.pdb
