@@ -1,4 +1,3 @@
-C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Isosceles-Triangle\bin\Debug\Isosceles-Triangle.exe.config
 C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Isosceles-Triangle\bin\Debug\Isosceles-Triangle.exe
 C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Isosceles-Triangle\bin\Debug\Isosceles-Triangle.pdb
 C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Isosceles-Triangle\obj\Debug\Isosceles-Triangle.exe

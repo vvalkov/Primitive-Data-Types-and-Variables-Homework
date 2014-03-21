@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EEF68037-422B-48A0-9702-C3219FE5A2BF}</ProjectGuid>
+    <ProjectGuid>{5F03C29E-0646-4101-849C-3F2C919ECB4D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Isosceles_Triangle</RootNamespace>
-    <AssemblyName>Isosceles-Triangle</AssemblyName>
+    <RootNamespace>Exchange_Variable_Values</RootNamespace>
+    <AssemblyName>Exchange-Variable-Values</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Triangle.cs" />
+    <Compile Include="ExchangeVariables.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

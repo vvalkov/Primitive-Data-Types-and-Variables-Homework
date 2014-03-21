@@ -1,0 +1,5 @@
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Exchange-Variable-Values\bin\Debug\Exchange-Variable-Values.exe
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Exchange-Variable-Values\bin\Debug\Exchange-Variable-Values.pdb
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Exchange-Variable-Values\obj\Debug\Exchange-Variable-Values.exe
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Exchange-Variable-Values\obj\Debug\Exchange-Variable-Values.pdb
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Exchange-Variable-Values\obj\Debug\Exchange-Variable-Values.csprojResolveAssemblyReference.cache
