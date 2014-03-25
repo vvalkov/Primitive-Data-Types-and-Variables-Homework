@@ -1,0 +1,4 @@
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Bank-Account-Data\bin\Debug\Bank-Account-Data.exe
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Bank-Account-Data\bin\Debug\Bank-Account-Data.pdb
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Bank-Account-Data\obj\Debug\Bank-Account-Data.exe
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Bank-Account-Data\obj\Debug\Bank-Account-Data.pdb

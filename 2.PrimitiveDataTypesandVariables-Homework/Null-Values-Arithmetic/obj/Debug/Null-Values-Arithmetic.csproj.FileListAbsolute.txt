@@ -1,0 +1,4 @@
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Null-Values-Arithmetic\bin\Debug\Null-Values-Arithmetic.exe
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Null-Values-Arithmetic\bin\Debug\Null-Values-Arithmetic.pdb
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Null-Values-Arithmetic\obj\Debug\Null-Values-Arithmetic.exe
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Null-Values-Arithmetic\obj\Debug\Null-Values-Arithmetic.pdb

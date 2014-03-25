@@ -6,3 +6,6 @@ C:\Users\UniUser\Documents\velizar\2ndHomework\2.PrimitiveDataTypesandVariables-
 C:\Users\UniUser\Documents\velizar\2ndHomework\2.PrimitiveDataTypesandVariables-Homework\DeclareVariables\obj\Debug\DeclareVariables.pdb
 C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\DeclareVariables\obj\Debug\DeclareVariables.exe
 C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\DeclareVariables\obj\Debug\DeclareVariables.pdb
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\DeclareVariables\bin\Debug\DeclareVariables.exe
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\DeclareVariables\bin\Debug\DeclareVariables.pdb
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache

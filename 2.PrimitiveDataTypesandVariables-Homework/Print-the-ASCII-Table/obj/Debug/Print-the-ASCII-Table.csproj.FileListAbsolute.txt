@@ -1,0 +1,4 @@
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Print-the-ASCII-Table\bin\Debug\Print-the-ASCII-Table.exe
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Print-the-ASCII-Table\bin\Debug\Print-the-ASCII-Table.pdb
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Print-the-ASCII-Table\obj\Debug\Print-the-ASCII-Table.exe
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Print-the-ASCII-Table\obj\Debug\Print-the-ASCII-Table.pdb

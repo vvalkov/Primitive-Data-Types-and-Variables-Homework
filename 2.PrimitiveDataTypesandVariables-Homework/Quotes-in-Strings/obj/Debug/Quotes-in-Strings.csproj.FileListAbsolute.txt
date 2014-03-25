@@ -1,0 +1,4 @@
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Quotes-in-Strings\bin\Debug\Quotes-in-Strings.exe
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Quotes-in-Strings\bin\Debug\Quotes-in-Strings.pdb
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Quotes-in-Strings\obj\Debug\Quotes-in-Strings.exe
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\Quotes-in-Strings\obj\Debug\Quotes-in-Strings.pdb

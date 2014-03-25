@@ -1,0 +1,4 @@
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+C:\Users\UniUser\Documents\velizar\Primitive-Data-Types-and-Variables-Homework\2.PrimitiveDataTypesandVariables-Homework\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb
